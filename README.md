@@ -25,3 +25,7 @@ For each supplier weâ€™ll keep track of their name and the type of product theyâ
 A single supplier may supply products to multiple branches.
 
 ### ER Diagram
+
+ER Diagram is shown below:
+<img src="link" width="300" height="600" />
+</[>
