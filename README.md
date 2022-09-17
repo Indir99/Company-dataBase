@@ -27,4 +27,6 @@ A single supplier may supply products to multiple branches.
 ### ER Diagram
 
 ER Diagram is shown below:
+<p align="center">
 <img src="https://github.com/Indir99/Company-dataBase/blob/master/images/er-diagram.png?raw=true" width="757" height="425" />
+</[>
