@@ -27,6 +27,39 @@ A single supplier may supply products to multiple branches.
 ### ER Diagram
 
 ER Diagram is shown below:
+
 <p align="center">
 <img src="https://github.com/Indir99/Company-dataBase/blob/master/images/er-diagram.png?raw=true" width="757" height="425" />
+</[>
+
+## Converting ER Diagrams to Schemas
+
+Employee table:
+
+<p align="center">
+<img src="https://github.com/Indir99/Company-dataBase/blob/master/images/employee.png?raw=true" width="675" height="74" />
+</[>
+
+Branch table:
+
+<p align="center">
+<img src="https://github.com/Indir99/Company-dataBase/blob/master/images/branch.png?raw=true" width="600" height="74" />
+</[>
+
+Client table:
+
+<p align="center">
+<img src="https://github.com/Indir99/Company-dataBase/blob/master/images/client.png?raw=true" width="406" height="74" />
+</[>
+
+Work_with table:
+
+<p align="center">
+<img src="https://github.com/Indir99/Company-dataBase/blob/master/images/works-with.png?raw=true" width="349" height="74" />
+</[>
+
+Branch supplier table:
+
+<p align="center">
+<img src="https://github.com/Indir99/Company-dataBase/blob/master/images/branch-supplier.png?raw=true" width="443" height="74" />
 </[>
